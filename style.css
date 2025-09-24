@@ -1,0 +1,9 @@
+.gamecanvas {
+	background-color: cornflowerblue;
+	width: 100%;
+}
+
+body {
+	margin: 0;
+	overflow: hidden;
+}
